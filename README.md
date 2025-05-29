@@ -1,4 +1,8 @@
 # InHoney
+
+RTU means Ready to use (u can download it and just start play)
+SC means source code (Python file with full code)
+
 My own game about bees and honey!!!
 
 Sources
